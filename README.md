@@ -36,7 +36,7 @@
 
 
 ##
-### 5.  이 중 상위 5개 항목을 추출하여 Pie 함수로 표현합니다. ( Matplotlib 함수 활용 )
+### 5.  이 중 상위 5개 항목을 추출하여 Pie 함수로 표현합니다. (Matplotlib 함수 활용)
 ![TOP5](https://user-images.githubusercontent.com/109491199/195047986-4963c496-8c13-4021-8127-ba6ead3570ef.PNG)
 
 ![파이차트4](https://user-images.githubusercontent.com/109491199/195048081-b4570512-86f6-4baf-bd7a-a410299a54f1.PNG)
