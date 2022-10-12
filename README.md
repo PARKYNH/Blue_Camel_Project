@@ -13,7 +13,7 @@
 ![KakaoTalk_20221005_174056839](https://user-images.githubusercontent.com/109491199/195316457-4468d6aa-e7cc-4d38-bd90-ac93edb2ab30.jpg)
 
 ##
-### 1.  지역코드를 다음과 같이 설정하였습니다.
+### 1.  지역코드를 다음과 같이 csv 파일로 만들어 설정하였습니다.
 
 ![지역코드](https://user-images.githubusercontent.com/109491199/195052649-ed5a64c2-ac36-4f6b-bb36-bb2c7c832c27.PNG)
 
