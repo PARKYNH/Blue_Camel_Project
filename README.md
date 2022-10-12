@@ -2,6 +2,13 @@
 
 ## 카메라 바코드 인식으로 지역별 배송위치 파악하기 📦
 
+## 해당 과정은 애자일 개발방법론을 통해 진행하였습니다.
+
+![KakaoTalk_20221005_174056839_02](https://user-images.githubusercontent.com/109491199/195316437-193eb410-7a54-4dec-b040-b003e459e105.jpg)
+![KakaoTalk_20221005_174056839_01](https://user-images.githubusercontent.com/109491199/195316452-30849254-c87b-466c-ab54-e3247f4017d8.jpg)
+![KakaoTalk_20221005_174056839](https://user-images.githubusercontent.com/109491199/195316457-4468d6aa-e7cc-4d38-bd90-ac93edb2ab30.jpg)
+
+
 ### 1.  지역코드를 다음과 같이 설정하였습니다.
 
 ![지역코드](https://user-images.githubusercontent.com/109491199/195052649-ed5a64c2-ac36-4f6b-bb36-bb2c7c832c27.PNG)
