@@ -36,7 +36,7 @@
 
 
 ##
-### 5.  이 중 상위 5개 항목을 추출하여 Pie 함수로 표현합니다.
+### 5.  이 중 상위 5개 항목을 추출하여 Pie 함수로 표현합니다. ( Matplotlib 함수 활용 )
 ![TOP5](https://user-images.githubusercontent.com/109491199/195047986-4963c496-8c13-4021-8127-ba6ead3570ef.PNG)
 
 ![파이차트4](https://user-images.githubusercontent.com/109491199/195048081-b4570512-86f6-4baf-bd7a-a410299a54f1.PNG)
@@ -44,7 +44,7 @@
 
 
 ##
-### 6.  권역별 택배 물류 이동 수량을 지도로 표현하였습니다.
+### 6.  Folium, Webbrowse 함수를 활용하여 지도로 표현하였습니다.
 
 ![지도차트](https://user-images.githubusercontent.com/109491199/195051757-60f84f9d-1a97-485d-8abc-8fb5b00e7bf7.PNG)
 
